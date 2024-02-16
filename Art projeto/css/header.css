@@ -1,0 +1,16 @@
+#header {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+#header p {
+    margin-bottom: 0;
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+#logo {
+    width: 40px;
+    margin-right: 12px;
+}
